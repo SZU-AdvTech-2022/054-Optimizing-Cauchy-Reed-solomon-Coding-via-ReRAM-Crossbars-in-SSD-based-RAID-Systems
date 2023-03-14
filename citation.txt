@@ -1,0 +1,9 @@
+@inproceedings{REPO-054,
+    author = "Han, Lei and Tan, Shangzhen and Xiao, Bin and Ma, Chenlin and Shao, Zili",
+    booktitle = "2019 IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA)",
+    number = "",
+    pages = "1-6",
+    title = "{Optimizing Cauchy Reed-solomon Coding via ReRAM Crossbars in SSD-based RAID Systems}",
+    volume = "",
+    year = "2019"
+}
